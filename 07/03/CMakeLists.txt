@@ -1,0 +1,6 @@
+﻿cmake_minimum_required(VERSION 3.10)
+set(CMAKE_CXX_STANDARD 20)
+find_package(Catch2 REQUIRED)
+project(CPPL5_Homework7_3)
+add_executable(homework "test_main.cpp" "simple_vector.hpp" "simple_vector_tests.cpp")
+target_link_libraries(homework PRIVATE Catch2::Catch2)
