@@ -10,4 +10,4 @@
 #### 7. [STL. Часть 2](08).
 #### 8. [Умные указатели](10).
 #### 9. [Move семантика](11).
-#### 10. [Курсовой проект «Парсер INI-файлов»](ini parser).
+#### 10. [Курсовой проект «Парсер INI-файлов»](https://github.com/Simba-ExC/Advanced-programming-in-C-/tree/main/ini%20parser).
